@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "1.12.0",
+        "symfony/filesystem": "2.7.*"
+    }
+}
